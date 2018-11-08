@@ -1,0 +1,2 @@
+# widieosd
+Termux
